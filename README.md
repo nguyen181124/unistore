@@ -1,4 +1,4 @@
-# Xây dựng 1 website bán hàng đơn giản với PHP
+# Xây dựng 1 website bán hàng đơn giản với PHP và MYSQL
 Người thực hiện: Nguyễn Tuấn Nguyên
 ## Website bao gồm:
 1. Trang chủ
@@ -11,3 +11,4 @@ Người thực hiện: Nguyễn Tuấn Nguyên
 1. Trang liên hệ
 1. Phần giỏ hàng
 1. Phần thanh toán
+1. Thêm sản phẩm
